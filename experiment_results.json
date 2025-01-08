@@ -1,9 +1,9 @@
 [
     {
         "user_N": 50,
-        "accuracy": 0.0,
-        "precision": 0.0,
-        "f1_score": 0,
+        "accuracy": 0.32,
+        "precision": 0.19047619047619047,
+        "f1_score": 0.2388059701492537,
         "normal_user_avg_reputation_list": [
             0.9026554761904761,
             0.9026554761904761,
@@ -211,9 +211,9 @@
     },
     {
         "user_N": 100,
-        "accuracy": 0.0,
-        "precision": 0.0,
-        "f1_score": 0,
+        "accuracy": 0.32,
+        "precision": 0.19753086419753085,
+        "f1_score": 0.24427480916030533,
         "normal_user_avg_reputation_list": [
             0.9237296296296297,
             0.9237296296296297,
@@ -421,9 +421,9 @@
     },
     {
         "user_N": 200,
-        "accuracy": 0.0,
-        "precision": 0.0,
-        "f1_score": 0,
+        "accuracy": 0.28,
+        "precision": 0.17073170731707318,
+        "f1_score": 0.21212121212121213,
         "normal_user_avg_reputation_list": [
             0.9046906097560975,
             0.9046906097560975,
@@ -631,9 +631,9 @@
     },
     {
         "user_N": 300,
-        "accuracy": 0.0,
-        "precision": 0.0,
-        "f1_score": 0,
+        "accuracy": 0.28,
+        "precision": 0.17073170731707318,
+        "f1_score": 0.21212121212121213,
         "normal_user_avg_reputation_list": [
             0.8960442276422763,
             0.8960442276422763,
