@@ -602,8 +602,8 @@ for user_N in user_N_list:
     print(f"current user_N: {user_N}")
 
 # 将结果保存到json文件
-with open('experiment_params.json', 'w') as f:
-    json.dump(params_list, f, indent=4)
+# with open('experiment_params.json', 'w') as f:
+#     json.dump(params_list, f, indent=4)
 
 
 for params in params_list:
